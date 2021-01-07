@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/AM1CODES/Kaggle-Survey-2020-Commpetition/blob/main/images.png" alt="drawing" width="200"/>
+</p>
+
 # Kaggle-Survey-2020-Commpetition
 
 The code in this Repo is submission for the annual Kaggle ML & DS survey Competition.
